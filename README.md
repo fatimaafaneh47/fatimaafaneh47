@@ -12,6 +12,6 @@ I am a student at AXSOS Academy , I have bachelor's degree in Information Techno
 ## Screenshots
 This is welcome page for my github to show mywork 
 
-![My Image](mygithub.jpg)
+![My Image](mygithubedit.jpg)
 
 
