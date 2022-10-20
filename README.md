@@ -4,6 +4,6 @@ I am a student at AXSOS Academy , I have bachelor's degree in Information Techno
 
 This is welcome page for my github to show mywork 
 
-![My Image](mygithubedit.jpg)
+![My Image](myname.jpg)
 
 
